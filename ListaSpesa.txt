@@ -1,5 +1,5 @@
 spesa:
-pomodori
+10 pomodori
 patate
 latte
 uova
