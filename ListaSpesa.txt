@@ -1,0 +1,6 @@
+spesa:
+pomodori
+patate
+latte
+uova
+acqua
