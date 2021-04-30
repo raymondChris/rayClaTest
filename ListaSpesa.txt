@@ -1,0 +1,6 @@
+spesa:
+10 pomodori
+patate
+latte
+uova
+acqua
